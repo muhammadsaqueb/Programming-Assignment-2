@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2023-09-23T10:19:27.736Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.8.1" etag="oALd5Kha_27QChsqC0XZ" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-23T10:34:55.893Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="A5mycPtOfDP1uZvIbUs0" version="21.8.1" type="github">
   <diagram name="Page-1" id="z81xrzkg7BTSoBhp2WS7">
-    <mxGraphModel>
+    <mxGraphModel dx="993" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="N6MTUs9ApPDVcRBgriUJ-1" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&lt;u&gt;KHOJ Web Site&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="10" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="N6MTUs9ApPDVcRBgriUJ-2" value="&lt;h3&gt;&lt;b&gt;&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 24px;&quot;&gt;khojorg.tech&lt;/font&gt;&lt;/b&gt;&lt;/h3&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="50" width="145" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
